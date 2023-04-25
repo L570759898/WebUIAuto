@@ -4,8 +4,8 @@ common目录中封装了logging打印日志保存到本地的方法和selenium�
 
 config目录中保持一些配置信息
 
-excute目录中封装了批量执行测试脚本的方法，并输出HTML测试报告
+excute目录中封装了批量执行测试脚本的方法，并输出html测试报告
 
-log目录中记录日志信息和截图信息
+log目录中记录日志信息、截图信息和html测试报告
 
 testcase目录保存测试脚本
