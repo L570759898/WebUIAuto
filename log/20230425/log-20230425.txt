@@ -1,0 +1,116 @@
+2023-04-25 13:38:56,918 [INFO] testcase_get_weather 18: start testcase_get_weather
+2023-04-25 13:38:59,665 [INFO] testcase_get_weather 27: 武汉地区最低气温为:20℃, 最高气温为:8℃
+2023-04-25 13:38:59,712 [INFO] testcase_get_weather 27: 襄阳地区最低气温为:22℃, 最高气温为:8℃
+2023-04-25 13:38:59,779 [INFO] testcase_get_weather 27: 鄂州地区最低气温为:18℃, 最高气温为:11℃
+2023-04-25 13:38:59,849 [INFO] testcase_get_weather 27: 孝感地区最低气温为:20℃, 最高气温为:9℃
+2023-04-25 13:38:59,933 [INFO] testcase_get_weather 27: 黄冈地区最低气温为:17℃, 最高气温为:8℃
+2023-04-25 13:38:59,985 [INFO] testcase_get_weather 27: 黄石地区最低气温为:17℃, 最高气温为:9℃
+2023-04-25 13:39:00,039 [INFO] testcase_get_weather 27: 咸宁地区最低气温为:18℃, 最高气温为:8℃
+2023-04-25 13:39:00,159 [INFO] testcase_get_weather 27: 荆州地区最低气温为:20℃, 最高气温为:10℃
+2023-04-25 13:39:00,209 [INFO] testcase_get_weather 27: 宜昌地区最低气温为:20℃, 最高气温为:9℃
+2023-04-25 13:39:00,270 [INFO] testcase_get_weather 27: 恩施地区最低气温为:23℃, 最高气温为:9℃
+2023-04-25 13:39:00,332 [INFO] testcase_get_weather 27: 十堰地区最低气温为:26℃, 最高气温为:9℃
+2023-04-25 13:39:00,397 [INFO] testcase_get_weather 27: 神农架地区最低气温为:22℃, 最高气温为:5℃
+2023-04-25 13:39:00,483 [INFO] testcase_get_weather 27: 随州地区最低气温为:21℃, 最高气温为:8℃
+2023-04-25 13:39:00,537 [INFO] testcase_get_weather 27: 荆门地区最低气温为:20℃, 最高气温为:10℃
+2023-04-25 13:39:00,588 [INFO] testcase_get_weather 27: 天门地区最低气温为:21℃, 最高气温为:10℃
+2023-04-25 13:39:00,639 [INFO] testcase_get_weather 27: 仙桃地区最低气温为:20℃, 最高气温为:10℃
+2023-04-25 13:39:00,687 [INFO] testcase_get_weather 27: 潜江地区最低气温为:21℃, 最高气温为:10℃
+2023-04-25 13:39:03,732 [INFO] testcase_get_weather 32: testcase_get_weather finsh
+2023-04-25 13:39:05,168 [INFO] testcase_get_weibo_info 19: start testcase_get_weibo_info
+2023-04-25 13:39:09,213 [INFO] testcase_get_weibo_info 29: 微博热搜榜1:B太 徐州烧烤, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,243 [INFO] testcase_get_weibo_info 29: 微博热搜榜2:腺样体面容, link-icon:https://simg.s.weibo.com/moter/flags/2_0.png
+2023-04-25 13:39:09,271 [INFO] testcase_get_weibo_info 29: 微博热搜榜3:这个答案写满中国航天的自信和底气, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,299 [INFO] testcase_get_weibo_info 29: 微博热搜榜4:被全网黑但逆风翻盘的明星, link-icon:https://simg.s.weibo.com/moter/flags/2_0.png
+2023-04-25 13:39:09,326 [INFO] testcase_get_weibo_info 29: 微博热搜榜5:郭珍霓, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,353 [INFO] testcase_get_weibo_info 29: 微博热搜榜6:曾经的朋友成为了明星, link-icon:https://simg.s.weibo.com/moter/flags/2_0.png
+2023-04-25 13:39:09,372 [INFO] testcase_get_weibo_info 29: 微博热搜榜7:人生路不熟有笑直播, link-icon:https://simg.s.weibo.com/20200925_recom_yellow.png
+2023-04-25 13:39:09,408 [INFO] testcase_get_weibo_info 29: 微博热搜榜8:詹姆斯, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,442 [INFO] testcase_get_weibo_info 29: 微博热搜榜9:婴儿高铁上哭闹女子和宝妈对骂, link-icon:https://simg.s.weibo.com/moter/flags/2_0.png
+2023-04-25 13:39:09,463 [INFO] testcase_get_weibo_info 29: 微博热搜榜10:霍思燕否认嗯哼是腺样体面容, link-icon:https://simg.s.weibo.com/moter/flags/2_0.png
+2023-04-25 13:39:09,482 [INFO] testcase_get_weibo_info 29: 微博热搜榜11:戚薇刮刮乐中奖, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,515 [INFO] testcase_get_weibo_info 29: 微博热搜榜12:易烊千玺新专辑刘艳芬, link-icon:https://simg.s.weibo.com/moter/flags/2_0.png
+2023-04-25 13:39:09,546 [INFO] testcase_get_weibo_info 29: 微博热搜榜13:灌篮高手遭遇史上最严重屏摄, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,588 [INFO] testcase_get_weibo_info 29: 微博热搜榜14:罗云熙一字马坐姿, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,645 [INFO] testcase_get_weibo_info 29: 微博热搜榜15:湖人战胜灰熊, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,706 [INFO] testcase_get_weibo_info 29: 微博热搜榜16:跳槽即涨薪的时代, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,752 [INFO] testcase_get_weibo_info 29: 微博热搜榜17:内娱无代餐的演员, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,814 [INFO] testcase_get_weibo_info 29: 微博热搜榜18:梁静茹说看去有风的地方哭得一塌糊涂, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,878 [INFO] testcase_get_weibo_info 29: 微博热搜榜19:长月烬明今晚超大悲, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:09,987 [INFO] testcase_get_weibo_info 29: 微博热搜榜20:官方通报徐州出租车绕路还反向抹零, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,023 [INFO] testcase_get_weibo_info 29: 微博热搜榜21:Billlie将暂时以6人体制活动, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,054 [INFO] testcase_get_weibo_info 29: 微博热搜榜22:南京迈皋桥, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,082 [INFO] testcase_get_weibo_info 29: 微博热搜榜23:詹姆斯绝平, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,118 [INFO] testcase_get_weibo_info 29: 微博热搜榜24:伍佰赚钱比曾毅还轻松, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,165 [INFO] testcase_get_weibo_info 29: 微博热搜榜25:不太健康的习惯 穷思竭虑, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,209 [INFO] testcase_get_weibo_info 29: 微博热搜榜26:徐州, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,249 [INFO] testcase_get_weibo_info 29: 微博热搜榜27:开不起玩笑的言外之意, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,293 [INFO] testcase_get_weibo_info 29: 微博热搜榜28:张云龙 竹业男主, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,342 [INFO] testcase_get_weibo_info 29: 微博热搜榜29:女子推理社, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,385 [INFO] testcase_get_weibo_info 29: 微博热搜榜30:詹姆斯22分20篮板, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,435 [INFO] testcase_get_weibo_info 29: 微博热搜榜31:KPL春季赛十一周最佳阵容, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:10,467 [INFO] testcase_get_weibo_info 29: 微博热搜榜32:国外纪念品90%来自中国制造, link-icon:https://simg.s.weibo.com/moter/flags/1_0.png
+2023-04-25 13:39:13,619 [INFO] testcase_get_weibo_info 34: testcase_get_weibo_info finsh
+2023-04-25 13:39:14,865 [INFO] testcase_jd_search 18: start testcase_jd_search
+2023-04-25 13:39:28,802 [INFO] testcase_jd_search 39: testcase_jd_search finsh
+2023-04-25 13:39:30,107 [INFO] testcase_play_cloudmusic 20: start testcase_play_cloudmusic
+2023-04-25 13:39:32,798 [INFO] testcase_play_cloudmusic 25: 搜索燕归巢-许嵩
+2023-04-25 13:39:37,375 [INFO] testcase_play_cloudmusic 29: 播放搜索到的第一首音乐
+2023-04-25 13:40:11,825 [INFO] testcase_play_cloudmusic 36: testcase_play_cloudmusic finsh
+2023-04-25 13:40:13,124 [INFO] testcase_railway_12306 17: start testcase_railway_12306
+2023-04-25 13:40:14,535 [INFO] testcase_railway_12306 22: 点击出发地选项框, 选择武汉
+2023-04-25 13:40:17,478 [INFO] testcase_railway_12306 25: 点击目的地选项框, 选择深圳
+2023-04-25 13:40:22,090 [INFO] testcase_railway_12306 30: 点击出发日选项框, 选择27号
+2023-04-25 13:40:24,086 [INFO] testcase_railway_12306 33: 选择发车时间00002400, 并点击查询按钮
+2023-04-25 13:40:26,195 [INFO] testcase_railway_12306 36: 武汉 --> 深圳（4月27日  周四）共计50个车次
+2023-04-25 13:40:26,618 [INFO] testcase_railway_12306 48: 车次:K1347, 出发站:武昌, 出发时间:05:30, 到达站:深圳, 到达时间:19:38, 当日到达, 历时:14:08
+2023-04-25 13:40:26,919 [INFO] testcase_railway_12306 48: 车次:Z229, 出发站:武昌, 出发时间:06:22, 到达站:深圳东, 到达时间:19:15, 当日到达, 历时:12:53
+2023-04-25 13:40:27,223 [INFO] testcase_railway_12306 48: 车次:G1001, 出发站:武汉, 出发时间:07:25, 到达站:深圳北, 到达时间:12:14, 当日到达, 历时:04:49
+2023-04-25 13:40:27,522 [INFO] testcase_railway_12306 48: 车次:G2703, 出发站:武汉, 出发时间:07:38, 到达站:深圳北, 到达时间:14:35, 当日到达, 历时:06:57
+2023-04-25 13:40:27,842 [INFO] testcase_railway_12306 48: 车次:G1003, 出发站:武汉, 出发时间:07:55, 到达站:深圳北, 到达时间:12:47, 当日到达, 历时:04:52
+2023-04-25 13:40:28,199 [INFO] testcase_railway_12306 48: 车次:G2705, 出发站:武汉, 出发时间:08:00, 到达站:深圳, 到达时间:15:42, 当日到达, 历时:07:42
+2023-04-25 13:40:28,514 [INFO] testcase_railway_12306 48: 车次:G1005, 出发站:武汉, 出发时间:08:12, 到达站:深圳北, 到达时间:13:08, 当日到达, 历时:04:56
+2023-04-25 13:40:28,814 [INFO] testcase_railway_12306 48: 车次:G881, 出发站:武汉, 出发时间:09:00, 到达站:深圳北, 到达时间:13:20, 当日到达, 历时:04:20
+2023-04-25 13:40:29,130 [INFO] testcase_railway_12306 48: 车次:G2281, 出发站:武汉, 出发时间:09:23, 到达站:深圳北, 到达时间:16:38, 当日到达, 历时:07:15
+2023-04-25 13:40:29,457 [INFO] testcase_railway_12306 48: 车次:G1017, 出发站:武汉, 出发时间:09:27, 到达站:深圳北, 到达时间:14:44, 当日到达, 历时:05:17
+2023-04-25 13:40:29,777 [INFO] testcase_railway_12306 48: 车次:G849, 出发站:武汉, 出发时间:09:30, 到达站:深圳, 到达时间:14:52, 当日到达, 历时:05:22
+2023-04-25 13:40:30,101 [INFO] testcase_railway_12306 48: 车次:G531, 出发站:武汉, 出发时间:09:43, 到达站:深圳北, 到达时间:15:00, 当日到达, 历时:05:17
+2023-04-25 13:40:30,407 [INFO] testcase_railway_12306 48: 车次:G1030, 出发站:汉口, 出发时间:09:51, 到达站:深圳北, 到达时间:15:57, 当日到达, 历时:06:06
+2023-04-25 13:40:30,736 [INFO] testcase_railway_12306 48: 车次:G883, 出发站:武汉, 出发时间:10:07, 到达站:深圳北, 到达时间:14:40, 当日到达, 历时:04:33
+2023-04-25 13:40:31,053 [INFO] testcase_railway_12306 48: 车次:G1027, 出发站:武汉, 出发时间:10:22, 到达站:深圳北, 到达时间:15:57, 当日到达, 历时:05:35
+2023-04-25 13:40:31,369 [INFO] testcase_railway_12306 48: 车次:G2707, 出发站:武汉, 出发时间:10:31, 到达站:深圳北, 到达时间:17:22, 当日到达, 历时:06:51
+2023-04-25 13:40:31,683 [INFO] testcase_railway_12306 48: 车次:G1034, 出发站:汉口, 出发时间:10:57, 到达站:深圳北, 到达时间:16:46, 当日到达, 历时:05:49
+2023-04-25 13:40:32,042 [INFO] testcase_railway_12306 48: 车次:G1185, 出发站:武汉, 出发时间:10:57, 到达站:深圳北, 到达时间:16:08, 当日到达, 历时:05:11
+2023-04-25 13:40:32,361 [INFO] testcase_railway_12306 48: 车次:K1655, 出发站:武昌, 出发时间:11:20, 到达站:深圳东, 到达时间:05:10, 次日到达, 历时:17:50
+2023-04-25 13:40:32,692 [INFO] testcase_railway_12306 48: 车次:G1031, 出发站:武汉, 出发时间:11:26, 到达站:深圳北, 到达时间:16:46, 当日到达, 历时:05:20
+2023-04-25 13:40:32,983 [INFO] testcase_railway_12306 48: 车次:G1007, 出发站:武汉, 出发时间:12:11, 到达站:深圳北, 到达时间:17:03, 当日到达, 历时:04:52
+2023-04-25 13:40:33,298 [INFO] testcase_railway_12306 48: 车次:G1189, 出发站:武汉, 出发时间:12:56, 到达站:深圳北, 到达时间:17:50, 当日到达, 历时:04:54
+2023-04-25 13:40:33,637 [INFO] testcase_railway_12306 48: 车次:G335, 出发站:武汉, 出发时间:13:16, 到达站:福田, 到达时间:18:04, 当日到达, 历时:04:48
+2023-04-25 13:40:33,966 [INFO] testcase_railway_12306 48: 车次:G1009, 出发站:武汉, 出发时间:13:40, 到达站:深圳北, 到达时间:18:43, 当日到达, 历时:05:03
+2023-04-25 13:40:34,297 [INFO] testcase_railway_12306 48: 车次:G813, 出发站:武汉, 出发时间:13:53, 到达站:深圳北, 到达时间:18:05, 当日到达, 历时:04:12
+2023-04-25 13:40:34,686 [INFO] testcase_railway_12306 48: 车次:G79, 出发站:武汉, 出发时间:13:58, 到达站:深圳北, 到达时间:18:10, 当日到达, 历时:04:12
+2023-04-25 13:40:35,039 [INFO] testcase_railway_12306 48: 车次:G279, 出发站:武汉, 出发时间:14:03, 到达站:深圳北, 到达时间:19:04, 当日到达, 历时:05:01
+2023-04-25 13:40:35,380 [INFO] testcase_railway_12306 48: 车次:G1175, 出发站:武汉, 出发时间:14:08, 到达站:深圳北, 到达时间:19:15, 当日到达, 历时:05:07
+2023-04-25 13:40:35,695 [INFO] testcase_railway_12306 48: 车次:G1311, 出发站:武汉, 出发时间:14:24, 到达站:深圳北, 到达时间:19:31, 当日到达, 历时:05:07
+2023-04-25 13:40:36,035 [INFO] testcase_railway_12306 48: 车次:G341, 出发站:武汉, 出发时间:14:37, 到达站:深圳北, 到达时间:20:21, 当日到达, 历时:05:44
+2023-04-25 13:40:36,394 [INFO] testcase_railway_12306 48: 车次:G1011, 出发站:武汉, 出发时间:14:47, 到达站:深圳北, 到达时间:19:41, 当日到达, 历时:04:54
+2023-04-25 13:40:36,729 [INFO] testcase_railway_12306 48: 车次:G821, 出发站:武汉, 出发时间:14:52, 到达站:深圳北, 到达时间:20:12, 当日到达, 历时:05:20
+2023-04-25 13:40:37,088 [INFO] testcase_railway_12306 48: 车次:G2709, 出发站:武汉, 出发时间:15:10, 到达站:深圳北, 到达时间:22:01, 当日到达, 历时:06:51
+2023-04-25 13:40:37,441 [INFO] testcase_railway_12306 48: 车次:G1042, 出发站:汉口, 出发时间:15:16, 到达站:深圳北, 到达时间:20:47, 当日到达, 历时:05:31
+2023-04-25 13:40:37,790 [INFO] testcase_railway_12306 48: 车次:G1039, 出发站:武汉, 出发时间:15:43, 到达站:深圳北, 到达时间:20:47, 当日到达, 历时:05:04
+2023-04-25 13:40:38,099 [INFO] testcase_railway_12306 48: 车次:G825, 出发站:武汉, 出发时间:15:55, 到达站:深圳北, 到达时间:20:52, 当日到达, 历时:04:57
+2023-04-25 13:40:38,428 [INFO] testcase_railway_12306 48: 车次:G1309, 出发站:武汉, 出发时间:16:00, 到达站:深圳北, 到达时间:21:22, 当日到达, 历时:05:22
+2023-04-25 13:40:38,730 [INFO] testcase_railway_12306 48: 车次:Z331, 出发站:武昌, 出发时间:16:06, 到达站:深圳东, 到达时间:06:30, 次日到达, 历时:14:24
+2023-04-25 13:40:39,089 [INFO] testcase_railway_12306 48: 车次:G2711, 出发站:武汉, 出发时间:16:33, 到达站:深圳北, 到达时间:22:53, 当日到达, 历时:06:20
+2023-04-25 13:40:39,408 [INFO] testcase_railway_12306 48: 车次:G305, 出发站:武汉, 出发时间:16:36, 到达站:深圳北, 到达时间:21:17, 当日到达, 历时:04:41
+2023-04-25 13:40:39,771 [INFO] testcase_railway_12306 48: 车次:G305, 出发站:武汉, 出发时间:16:36, 到达站:福田, 到达时间:21:28, 当日到达, 历时:04:52
+2023-04-25 13:40:40,081 [INFO] testcase_railway_12306 48: 车次:G1191, 出发站:武汉, 出发时间:16:52, 到达站:深圳北, 到达时间:21:53, 当日到达, 历时:05:01
+2023-04-25 13:40:40,401 [INFO] testcase_railway_12306 48: 车次:G1021, 出发站:武汉, 出发时间:17:08, 到达站:深圳北, 到达时间:22:03, 当日到达, 历时:04:55
+2023-04-25 13:40:40,728 [INFO] testcase_railway_12306 48: 车次:G1013, 出发站:武汉, 出发时间:17:23, 到达站:深圳北, 到达时间:22:32, 当日到达, 历时:05:09
+2023-04-25 13:40:41,092 [INFO] testcase_railway_12306 48: 车次:G1019, 出发站:武汉, 出发时间:17:38, 到达站:深圳北, 到达时间:22:37, 当日到达, 历时:04:59
+2023-04-25 13:40:41,436 [INFO] testcase_railway_12306 48: 车次:G829, 出发站:武汉, 出发时间:17:49, 到达站:深圳北, 到达时间:23:06, 当日到达, 历时:05:17
+2023-04-25 13:40:41,803 [INFO] testcase_railway_12306 48: 车次:G81, 出发站:武汉, 出发时间:18:14, 到达站:深圳北, 到达时间:22:42, 当日到达, 历时:04:28
+2023-04-25 13:40:42,191 [INFO] testcase_railway_12306 48: 车次:T95, 出发站:武昌, 出发时间:18:41, 到达站:深圳东, 到达时间:07:28, 次日到达, 历时:12:47
+2023-04-25 13:40:42,508 [INFO] testcase_railway_12306 48: 车次:Z23, 出发站:武昌, 出发时间:19:26, 到达站:深圳, 到达时间:08:05, 次日到达, 历时:12:39
+2023-04-25 13:40:42,885 [INFO] testcase_railway_12306 48: 车次:K237, 出发站:武昌, 出发时间:21:10, 到达站:深圳东, 到达时间:11:33, 次日到达, 历时:14:23
+2023-04-25 13:40:45,788 [INFO] testcase_railway_12306 55: testcase_railway_12306 finsh
