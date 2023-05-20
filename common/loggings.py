@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # coding=utf-8
 
-# 封装了logging三方库，主要用来进行日志打印
+# 封装了logging三方库对日志打印、保存到本地的方法
 
 import os
 import logging
@@ -9,73 +9,24 @@ import datetime
 from config import constant
 
 
-def loggings():
-    """新建日志器"""
-    global logger, console_handler, file_handler
-    now_time = datetime.datetime.now().strftime('%Y%m%d')
-    log_file_path = os.path.join(constant.LOG_PATH, now_time)
-    logger = logging.getLogger("log")
-    logger.setLevel(logging.INFO)
-    full_log_path = os.path.join(log_file_path, f"log-{now_time}.txt")
-    if not os.path.exists(log_file_path):
-        os.system("mkdir %s" % log_file_path)
-    console_handler = logging.StreamHandler()
-    file_handler = logging.FileHandler(full_log_path, mode='a', encoding="UTF-8")
-    console_handler.setLevel(logging.INFO)
-    file_handler.setLevel(logging.INFO)
-    # formatter = logging.Formatter('%(asctime)s [%(levelname)s]: %(message)s')
-    formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(module)s %(lineno)s: %(message)s')
-    console_handler.setFormatter(formatter)
-    file_handler.setFormatter(formatter)
-    if not logger.handlers:
-        logger.addHandler(console_handler)
-        logger.addHandler(file_handler)
-    return logger
+now_time = datetime.datetime.now().strftime('%Y%m%d')
+log_path = os.path.join(constant.LOG_PATH, now_time)
+log_file_path = os.path.join(log_path, f"log-{now_time}.txt")
+if not os.path.exists(log_path):
+    os.makedirs(log_path)
 
+log = logging.getLogger("log")
+formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(module)s %(lineno)s: %(message)s')
 
-def debug(msg, *args, **kwargs):
-    if not logger.hasHandlers():
-        logger.addHandler(console_handler)
-        logger.addHandler(file_handler)
-    logger.debug(msg, *args, **kwargs)
-    logger.removeHandler(console_handler)
-    logger.removeHandler(file_handler)
+# 日志打印到文件
+file_handler = logging.FileHandler(log_file_path, mode='a', encoding="UTF-8")
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+# 日志打印到屏幕
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
 
-
-def info(msg, *args, **kwargs):
-    if not logger.hasHandlers():
-        logger.addHandler(console_handler)
-        logger.addHandler(file_handler)
-    logger.info(msg, *args, **kwargs)
-    logger.removeHandler(file_handler)
-    logger.removeHandler(console_handler)
-
-
-def warning(msg, *args, **kwargs):
-    if not logger.hasHandlers():
-        logger.addHandler(console_handler)
-        logger.addHandler(file_handler)
-    logger.warning(msg, *args, **kwargs)
-    logger.removeHandler(file_handler)
-    logger.removeHandler(console_handler)
-
-
-def error(msg, *args, **kwargs):
-    if not logger.hasHandlers():
-        logger.addHandler(console_handler)
-        logger.addHandler(file_handler)
-    logger.error(msg, *args, **kwargs)
-    logger.removeHandler(file_handler)
-    logger.removeHandler(console_handler)
-
-
-def critical(msg, *args, **kwargs):
-    if not logger.hasHandlers():
-        logger.addHandler(console_handler)
-        logger.addHandler(file_handler)
-    logger.critical(msg, *args, **kwargs)
-    logger.removeHandler(file_handler)
-    logger.removeHandler(console_handler)
-
-
-log = loggings()
+log.setLevel(logging.INFO)
+log.addHandler(console_handler)
+log.addHandler(file_handler)
